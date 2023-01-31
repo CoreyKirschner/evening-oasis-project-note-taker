@@ -16,7 +16,7 @@ MIT
   
 ## Usage
   
-   To use the note taker, direct your terminal this app, run 'node server.js' in the command line. You will see "Server is running on PORT 3001" indicating that the server is up and running. In a internet browser direct the page to "localhost:3001" and you should see the starting page with a button labeled "Get started" where it will direct you to the notes page where you can add, save, and delete notes.
+   To use the note taker, direct your terminal to this app, run 'node server.js' in the command line. You will see "Server is running on PORT 3001" indicating that the server is up and running. In an internet browser direct the page to "localhost:3001" and you should see the starting page with a button labeled "Get started" where it will direct you to the notes page where you can add, save, and delete notes.
    
 ## Contribution Guidelines
    
