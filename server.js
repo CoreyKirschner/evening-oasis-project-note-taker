@@ -52,7 +52,7 @@ app.post("/api/notes", (req, res) => {
         fs.writeFile(path.join("./db/db.json"), JSON.stringify(notes), err => {
             if (err) throw err;
             // Send the new note as a response
-            res.json(notes);// its notes or newNote
+            res.json(notes);
         });
     });
 });
