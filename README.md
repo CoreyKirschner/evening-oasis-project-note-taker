@@ -2,6 +2,10 @@
 
 # Note Taker
 
+<img width="1159" alt="Screen Shot 2023-01-30 at 4 19 17 PM" src="https://user-images.githubusercontent.com/114973010/215626502-95a05e64-b427-4256-b028-531f3a3ca068.png">
+
+<img width="1158" alt="Screen Shot 2023-01-30 at 4 19 48 PM" src="https://user-images.githubusercontent.com/114973010/215626536-ee2e51bf-ae27-486b-93af-bc253a0b3612.png">
+
 ## License
 
 MIT
